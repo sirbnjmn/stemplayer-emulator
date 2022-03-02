@@ -10,8 +10,9 @@
 // @run-at       document-start
 // @grant        none
 // @license MIT
+// Github: https://github.com/sirbnjmn/stemplayer-emulator
 // ==/UserScript==
- 
+
 (function() {
     'use strict';
  
