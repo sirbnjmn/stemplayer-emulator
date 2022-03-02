@@ -1,4 +1,4 @@
-# Stem Player Emulator
+# Kanye West's Stem Player Emulator
 
 This script emulates the 'Stem Player' by Kanye West.
 
